@@ -11,6 +11,8 @@ namespace ConsoleApp1
             Console.WriteLine("Hello today");
 
             Console.WriteLine("New week");
+
+            Console.WriteLine("New month");
         }
     }
 }
