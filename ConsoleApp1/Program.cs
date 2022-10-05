@@ -13,6 +13,8 @@ namespace ConsoleApp1
             Console.WriteLine("New week");
 
             Console.WriteLine("New month");
+
+            Console.WriteLine("New year");
         }
     }
 }
