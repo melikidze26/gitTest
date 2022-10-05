@@ -15,6 +15,9 @@ namespace ConsoleApp1
             Console.WriteLine("New month");
 
             Console.WriteLine("New year");
+
+
+            System.Console.WriteLine("This is new commwnr text from Vakhtang");
         }
     }
 }
