@@ -18,6 +18,11 @@ namespace ConsoleApp1
 
 
             System.Console.WriteLine("This is new commwnr text from Vakhtang");
+
+            var int a = 10;
+            var int b = 5;
+
+            System.Console.WriteLine(a + b);
         }
     }
 }
