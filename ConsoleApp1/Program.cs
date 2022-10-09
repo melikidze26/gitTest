@@ -16,7 +16,7 @@ namespace ConsoleApp1
 
             Console.WriteLine("New year");
 
-
+ranch
             System.Console.WriteLine("This is new commwnr text from Vakhtang");
 
             var int a = 10;
